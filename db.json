@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "Mohamed Magdy",
+      "age": 26,
+      "phone": "01222914006",
+      "id": 1
+    },
+    {
+      "name": "Mostafa Magdy",
+      "age": 30,
+      "phone": "01222222222",
+      "id": 2
+    },
+    {
+      "name": "Ali Mahmoud",
+      "age": 50,
+      "phone": "01255555555",
+      "id": 3
+    }
+  ]
+}
